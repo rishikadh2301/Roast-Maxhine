@@ -9,7 +9,7 @@ A fun and interactive JavaFX application that generates hilarious AI-powered roa
 
 🚀 How to Run
 Clone the repository:
-git clone https://github.com/rishikadh2301Roast-Maxhine.git
+git clone https://github.com/rishikadh2301/Roast-Maxhine
 
 🛠️ Technologies Used
 Java 11+
